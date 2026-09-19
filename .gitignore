@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+tmp/
+bin/*
+!bin/.gitkeep
+sources/*
+!sources/.gitkeep
+markdown/*
+!markdown/.gitkeep
+.DS_Store
